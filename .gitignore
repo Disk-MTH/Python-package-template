@@ -1,0 +1,5 @@
+.idea
+python
+diskmth/dist
+diskmth/ppt/ppt.egg-info
+diskmth/ppt/ppt/__pycache__
