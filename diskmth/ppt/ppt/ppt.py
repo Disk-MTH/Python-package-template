@@ -1,15 +1,5 @@
 # -*- encoding: utf-8 -*-
 
-import os
-import sys
-import json
-import functools
-import operator
-
-translations_path = os.getcwd()
-selected_extension = ".lang"
-translations = []
-
 """
 Author: Disk_MTH
 GitHub: https://github.com/Disk-MTH/Python-package-template

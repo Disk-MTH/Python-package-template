@@ -1,4 +1,4 @@
-# Tradlib
+# Python package template (ppt)
 
 For the overview of the library check [here](https://github.com/Disk-MTH/Python-package-template/blob/master/README.md).
 
